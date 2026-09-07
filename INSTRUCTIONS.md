@@ -1,7 +1,7 @@
 # Memory Protocol
 
 You have persistent memory across sessions, stored in the knowledge base at
-`~/.github/opencode-database/knowledge/` (the `memory` reference in your
+`~/.opencode-database/` (the `memory` reference in your
 config points at the same directory). Use it instead of asking
 the user to repeat themselves.
 
