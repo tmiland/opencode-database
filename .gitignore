@@ -1,0 +1,17 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# Personal knowledge — local only, never commit or push.
+# The public repo keeps only the skeleton (index.md, projects/_TEMPLATE.md).
+knowledge/*
+!knowledge/index.md
+!knowledge/projects/
+knowledge/projects/*
+!knowledge/projects/_TEMPLATE.md
